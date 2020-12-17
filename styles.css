@@ -1,0 +1,92 @@
+
+.card-title{
+    font-family: 'Comic Neue', cursive;
+    font-size:3em;
+}
+
+h1{
+  color:black;
+}
+.navb{
+  margin-top:-45px;
+}
+p{
+  text-align: center;
+  font-family: 'Comic Neue', cursive;
+  padding-left: 140px;
+  padding-right:140px;
+  padding-bottom:40px;
+  padding-top:40px;
+  font-size:1.75em;
+}
+.otc{
+  text-align: center;
+}
+.list{
+  font-family: 'Comic Neue', cursive;
+  margin-left: 475px;
+  margin-right:120px;
+  text-align: center;
+  display:inline;
+  position: sticky;
+  font-size: 1.1em;
+
+}
+footer{
+  margin-top:80px;
+  margin-bottom: -50px;
+  background-color: black;
+  padding-top: 0px;
+  color:white;
+}
+li{
+  padding-right:70px;
+}
+.para{
+  margin-top: -45px;
+  font-size: 1.1em;
+}
+#carouselExampleDark{
+margin-right: 400px;
+margin-left:400px;
+font-family: 'Comic Neue', cursive;
+
+}
+#location{
+  display:flex;
+  font-size: 1.5em;
+  font-family: 'Comic Neue', cursive;
+  padding-right:100px;
+  padding-left:100px;
+  margin-bottom:-40px;
+  text-align: center;
+  padding-top:50px;
+  margin-right:150px;
+  margin-left: 150px;
+  border:inset;
+}
+iframe{
+  padding-right:20px;
+}
+@media only screen and (max-width: 1000px){
+#carouselExampleDark{
+  margin: 0;
+  margin-bottom:100px;
+}
+#intro{
+  font-size: .75em;
+  margin-left:-100px;
+  margin-right:-100px;
+}
+footer{
+  font-size: .75em;
+  margin-bottom:-100px;
+}
+.para{
+  margin-left: -100px;
+  margin-right:-100px;
+}
+#location{
+  margin:20px;
+}
+}
